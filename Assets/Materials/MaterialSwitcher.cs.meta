@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: adc17edb991a9824ea8eab384fae3981
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - prefab1: {instanceID: 0}
+  - prefab2: {instanceID: 0}
+  - prefab3: {instanceID: 0}
+  - prefab4: {instanceID: 0}
+  - prefab5: {instanceID: 0}
+  - prefab6: {instanceID: 0}
+  - redMaterial: {fileID: 2100000, guid: b7fcd66b45166ff478920bdf7cbbd056, type: 2}
+  - blueMaterial: {fileID: 2100000, guid: 793ad98fdaba08844a6127b2bf0421dc, type: 2}
+  - whiteMaterial: {fileID: 2100000, guid: 3cf791db979378e478028b3d4ecd263d, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
